@@ -1,3 +1,15 @@
-# Contemporary Issues In Data
+# T-Mobile Data Breach incident in November 2022, 37 million accounts affected
+In this document, I discuss two articles about the new incident that happened at T-Mobile which led to the 37 million possible affected clients. Although both these articles share a common theme, the one published by **WIRED** seems to have  amore in depth view on the story and past breaches, alongside 3rd parties opinions while the one published by **The Verge** is short and seems to only report on the issue.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In **The Verge's** [T-Mobile announces another data breach, impacting 37 million accounts](https://www.theverge.com/2023/1/20/23563825/tmobile-data-breach-api-customer-accounts-hacker-security), the author does a quick brifieng of the situation while informing the reader of the incident and the response given by T-Mobile in a press conference. It highlights that T-Mobile ommited some information about the hack, including the fact that they had not detected any malicious presence in their system for more than a month.
+
+This article approaches the incident with little bias in my opinion only looking to expose the facts that happened, there is no third party quotes on the incident. However **The Verge** does reference the issues T-Mobile has been facing with the security of its systems and operations by mentioning the preivous attacks they had suffered. They do end on an interesting note by saying that the hacking group Lapsus$ was the one responsible to the previous attack that happened to T-Mobile in April 2022.
+
+## Article 2
+In **WIRED's** article [T-Mobile’s $150 Million Security Plan Isn’t Cutting It](https://www.wired.com/story/tmobile-data-breach-again/) we see a much more opinionated approach, starting already with the title that criticizes the failed attempt to create a expensive security plan supposed to be able to handle these sort of problems. The article brings the opinion of people from inside the network security world such as: Chester Wisniewski, and Jake Williams. 
+
+The article contributes a lot to the general understanding of the situation by reporting on the many incidents in the past five years and plans that T-Mobile has put in action to try to combat that. On the other hand, it shines a light on the idea that many T-Mobile custommers might not even be worried with further data breaches since T-Mobile has suffered so many already. They do end on a negative note by quoting Wisniewski that says: "Another day, another T-Mobile breach".
+
+## Conclusion
+These breaches seem to be having a big toll on T-Mobile's public image and reasonably so, no customer regardless of the industry or information at hand, would like to have its details stolen. A class action lawsuit representing those affected by the breaches is one of the necessary actions that need to happen to promote a change in how seriously data is handled and stored. As we further more into the depths of the digital world, companies must be held accountable for not protecting their customers information properly. 
